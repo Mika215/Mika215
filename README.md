@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a junior web Developer specializing in MERN\_stack. I took a bold decision to make a carrier shift from a media & communications background(worked for about a decade) in pursuit of a powerful tool - Web \_Development. I strongly believe that webdev is all about #problem\_solving and i'm determined to persist in the adventure of solving real world problems .
+I am a junior web Developer specializing in MERN\_stack. I took a bold decision to make a carrier shift from a media & communications background(worked for about a decade) in pursuit of a powerful tool - Web \_Development. I strongly believe that webdev is all about problem\_solving and i'm determined to persist in the adventure of solving real world problems .
 
 * 🌍  I'm based in Liège,Belgium :belgium:
 * 🖥️  See my portfolio at [website](http://mikacodes.netlify.app)
@@ -39,6 +39,8 @@ I am a junior web Developer specializing in MERN\_stack. I took a bold decision 
 
 <p align="left"> <a href="https://discord.com/users/883995435277090827" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mika215" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mikacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17833147/michael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
+### Badges
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Mika215"><img src="https://github-readme-stats.vercel.app/api?username=Mika215&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mika215's GitHub stats" /></a>
@@ -51,4 +53,8 @@ I am a junior web Developer specializing in MERN\_stack. I took a bold decision 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Mika215/dallolmart" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mika215&repo=dallolmart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mika215/weather-app-mika" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mika215&repo=weather-app-mika&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Mika215/BeHelp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mika215&repo=BeHelp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mika215/dj-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mika215&repo=dj-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
