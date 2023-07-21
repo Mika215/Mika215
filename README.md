@@ -9,7 +9,7 @@ I am a junior web Developer specializing in MERN\_stack. I took a bold decision 
 * 🌍  I'm based in Liège,Belgium :belgium:
 * 🖥️  See my portfolio at [website](http://mikacodes.netlify.app)
 * ✉️  You can contact me at [michaeltesfayg@gmail.com](mailto:michaeltesfayg@gmail.com)
-* 🧠  I'm learning TypeScript,SolidJs
+* 🧠  I'm learning TypeScript,Svelte
 
 ### Skills
 
